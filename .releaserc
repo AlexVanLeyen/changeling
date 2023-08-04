@@ -1,7 +1,8 @@
 {
     "branches": "main",
-    "repositoryUrl": "",
     "debug": false,
+    "mangle": false,
+    "headerIds": false,
     "plugins": [
         "@semantic-release/commit-analyzer",
         "@semantic-release/release-notes-generator",
@@ -34,7 +35,7 @@
             {
                 "assets": [
                     {
-                        "path": "dist/*.js",
+                        "path": "dist/**",
                         "label": "Distribution"
                     }
                 ]

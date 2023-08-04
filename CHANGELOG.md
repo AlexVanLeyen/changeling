@@ -1,5 +1,17 @@
 # Changelog
 
+# [2.0.0](https://github.com/AlexVanLeyen/changeling/compare/v1.2.0...v2.0.0) (2023-08-04)
+
+
+### Features
+
+* some feature ([13276a0](https://github.com/AlexVanLeyen/changeling/commit/13276a0562f86c86dde7334a3657482fd72fa57a))
+
+
+### BREAKING CHANGES
+
+* this change will break your package
+
 # [1.2.0](https://github.com/AlexVanLeyen/changeling/compare/v1.1.1...v1.2.0) (2023-08-04)
 
 

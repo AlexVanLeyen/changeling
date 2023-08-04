@@ -1,5 +1,18 @@
 # Changelog
 
+# [2.1.0](https://github.com/AlexVanLeyen/changeling/compare/v2.0.0...v2.1.0) (2023-08-04)
+
+
+### Bug Fixes
+
+* Fixed more things ([e8f90c9](https://github.com/AlexVanLeyen/changeling/commit/e8f90c9841762bca6242dcf13d15d3adcc190c6f))
+* Fixed some thing ([d6fdacb](https://github.com/AlexVanLeyen/changeling/commit/d6fdacbab4f9a73d11658cde91622a94c2776330))
+
+
+### Features
+
+* Added more things ([2bef72c](https://github.com/AlexVanLeyen/changeling/commit/2bef72c83774f88377049ac5c486efc4b259cc26))
+
 # [2.0.0](https://github.com/AlexVanLeyen/changeling/compare/v1.2.0...v2.0.0) (2023-08-04)
 
 

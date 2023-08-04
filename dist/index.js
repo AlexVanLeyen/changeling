@@ -1,3 +1,5 @@
-console.log("hello world")
+console.log("hello world");
 
-console.log("%d + %d = %d", 1, 2, 5)
+let a = 1, b = 2;
+
+console.log("%d + %d = %d", a, b, a + b);

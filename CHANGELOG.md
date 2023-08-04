@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.1.0](https://github.com/AlexVanLeyen/changeling/compare/v1.0.0...v1.1.0) (2023-08-04)
+
+
+### Features
+
+* Added fancy console calculator ([08a4c5f](https://github.com/AlexVanLeyen/changeling/commit/08a4c5f423dc7a83693d5c19d8d71c9c5ee3d943))
+
 # 1.0.0 (2023-08-04)
 
 

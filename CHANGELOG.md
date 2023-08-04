@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.2.0](https://github.com/AlexVanLeyen/changeling/compare/v1.1.1...v1.2.0) (2023-08-04)
+
+
+### Features
+
+* **fancy calculator:** Added add method ([556ea8e](https://github.com/AlexVanLeyen/changeling/commit/556ea8eedabc7f41665be0ba2c551951c2f7094d))
+
 ## [1.1.1](https://github.com/AlexVanLeyen/changeling/compare/v1.1.0...v1.1.1) (2023-08-04)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/AlexVanLeyen/changeling/compare/v1.1.0...v1.1.1) (2023-08-04)
+
+
+### Bug Fixes
+
+* **fancy calculator:** Fixed incorrect response ([d3bbf82](https://github.com/AlexVanLeyen/changeling/commit/d3bbf82604d1d6e2532e3d87b0eae5e86dfbe1b5))
+
 # [1.1.0](https://github.com/AlexVanLeyen/changeling/compare/v1.0.0...v1.1.0) (2023-08-04)
 
 
